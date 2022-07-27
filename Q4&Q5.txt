@@ -1,0 +1,12 @@
+Q4.
+        The best project I did was with my team, where we were given a problem statement to make a website where we could change the shirt color.
+It was a bit challenging, but we completed it. Initially, we planned on using SCSS/SASS to achieve the desired output. 
+But to keep our stack simple and to achieve maximum compatibility with any E-commerce website, we compiled the same into CSS.
+The solution requires a blank background to work as intended. This was an issue for about 10-15% of the garments with a human subject. 
+At last, we had to settle for our solution working for blank background images only.
+Link: https://devfolio.co/projects/bme-d79e
+
+Q5. 
+        The two people I want to work with are N.Aditya Sai and Souharda Biswas.
+They have been my friends from the very first day of college. I worked with them on a few projects and have an excellent Synergy with them.
+       
